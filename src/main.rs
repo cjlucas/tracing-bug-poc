@@ -3,6 +3,8 @@ fn main() {
 
     println!("=== good ===");
     good();
+
+    println!();
     println!("=== bad ===");
     bad();
 }
