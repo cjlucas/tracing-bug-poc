@@ -1,0 +1,12 @@
+[package]
+name = "tracing-bug-poc"
+version = "0.1.0"
+authors = ["Chris Lucas <chris@cjl.io>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tracing = {  version = "0.1", features = ["log", "log-always", "max_level_trace", "release_max_level_trace"] }
+tracing-subscriber = { path = "tracing-subscriber", version = "0.2.0-alpha" }
+log = "0.4.8"

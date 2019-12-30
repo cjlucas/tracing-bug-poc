@@ -1,0 +1,12 @@
+/Users/chrislucas/repos/tracing-bug-poc/tracing-subscriber/target/debug/deps/memchr-78108a2d9748af0a.rmeta: /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/c.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/chrislucas/repos/tracing-bug-poc/tracing-subscriber/target/debug/deps/memchr-78108a2d9748af0a.d: /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/c.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/c.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs:
+/Users/chrislucas/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs:
